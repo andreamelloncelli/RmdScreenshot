@@ -1,0 +1,10 @@
+Package: RmdScreenshot
+Type: Package
+Title: Insert screenshot in Rmarkdown.
+Version: 0.1.0
+Author: Andrea Melloncelli
+Maintainer: Andrea Melloncelli <noemail@none.com>
+Description: Provide an RStudio Addin to take a screenshot and put it in the Rmd file.
+License: GNU GENERAL PUBLIC LICENSE Version 2, June 1991 (See LICENSE file)
+Encoding: UTF-8
+LazyData: true
