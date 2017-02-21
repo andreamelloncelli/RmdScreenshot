@@ -2,7 +2,6 @@
 #
 import_screenshot <- function() {
 	rmd_path  <- rstudioapi::getActiveDocumentContext()$path
-	message(image_dir)
 	image_name <- take_screenshot(rmd_path)
   link <- paste0( "![](", image_name, ")" )
   ####
