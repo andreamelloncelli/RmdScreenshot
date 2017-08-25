@@ -1,4 +1,4 @@
-Name: Take screenshot
-Description: blabla bla
+Name: Import screenshot
+Description: Import a screenshot to your .Rmd file
 Binding: import_screenshot
 Interactive: false
